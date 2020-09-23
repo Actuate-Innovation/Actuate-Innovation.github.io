@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/about/wade-shen", {data:[{}],fetch:[],mutations:void 0});
