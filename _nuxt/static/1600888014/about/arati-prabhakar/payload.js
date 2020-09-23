@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/about/arati-prabhakar", {data:[{}],fetch:[],mutations:void 0});

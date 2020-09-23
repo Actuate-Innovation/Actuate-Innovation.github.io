@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/programs/datasafes", {data:[{}],fetch:[],mutations:void 0});
