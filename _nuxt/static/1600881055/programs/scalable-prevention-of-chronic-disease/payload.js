@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/programs/scalable-prevention-of-chronic-disease", {data:[{}],fetch:[],mutations:void 0});
