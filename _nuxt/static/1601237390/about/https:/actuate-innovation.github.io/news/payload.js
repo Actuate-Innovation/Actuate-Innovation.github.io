@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/about/https://actuate-innovation.github.io/news", {data:[],fetch:[],mutations:void 0});

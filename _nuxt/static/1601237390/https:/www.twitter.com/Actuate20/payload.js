@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/https://www.twitter.com/Actuate20", {data:[],fetch:[],mutations:void 0});
