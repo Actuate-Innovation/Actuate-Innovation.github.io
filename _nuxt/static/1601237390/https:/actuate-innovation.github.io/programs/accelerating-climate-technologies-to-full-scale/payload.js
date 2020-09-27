@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/https://actuate-innovation.github.io/programs/accelerating-climate-technologies-to-full-scale", {data:[],fetch:[],mutations:void 0});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/about/https://www.linkedin.com/company/actuate-org", {data:[],fetch:[],mutations:void 0});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/about/https://www.techer.caltech.edu/discovery-channels", {data:[],fetch:[],mutations:void 0});
