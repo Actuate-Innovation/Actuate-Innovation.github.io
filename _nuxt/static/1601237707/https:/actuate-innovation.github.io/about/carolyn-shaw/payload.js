@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/https://actuate-innovation.github.io/about/carolyn-shaw", {data:[],fetch:[],mutations:void 0});
