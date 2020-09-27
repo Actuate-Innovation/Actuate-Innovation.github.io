@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/https://medium.com/@actuate/changing-whats-possible-2aacab75705", {data:[],fetch:[],mutations:void 0});

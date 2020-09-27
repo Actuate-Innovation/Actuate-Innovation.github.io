@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/programs/https://actuate-innovation.github.io/contact", {data:[],fetch:[],mutations:void 0});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/https://actuate-innovation.github.io/about/arati-prabhakar", {data:[],fetch:[],mutations:void 0});
