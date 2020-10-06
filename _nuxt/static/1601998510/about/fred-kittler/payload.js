@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/about/fred-kittler", {data:[{}],fetch:[],mutations:void 0});
