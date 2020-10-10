@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a,b){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1602361807",layout:"default",error:null,serverRendered:true,routePath:a,config:{formspreeEndPoint:"https:\u002F\u002Fformspree.io\u002Fmeqrylbl",recaptchaSiteKey:"6Lc3Pc8ZAAAAAPtEsJeBL5B6En9tSGfrIzEONHvB",livePreview:false,craftApiUrl:b,craftAuthToken:b,http:{browserBaseURL:a}}}}("\u002F",""));
