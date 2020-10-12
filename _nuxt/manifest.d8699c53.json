@@ -45,8 +45,9 @@
       "purpose": "any maskable"
     }
   ],
-  "start_url": "/?standalone=true",
+  "start_url": "https://actuate-innovation.github.io",
   "display": "standalone",
   "background_color": "#ffffff",
+  "theme_color": "#165895",
   "lang": "en"
 }
